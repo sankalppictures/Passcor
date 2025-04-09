@@ -37,7 +37,7 @@ resetButton.addEventListener("click", () => {
 });
 
 getLinkButton.addEventListener("click", () => {
-  window.open("https://ghunnu.jimdofree.com/", "_blank");
+  window.open("https://sankalppictures.github.io/Class-10/", "_blank");
 });
 
 function checkPassword() {
